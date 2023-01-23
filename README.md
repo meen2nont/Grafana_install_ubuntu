@@ -40,7 +40,7 @@ sudo systemctl enable --now grafana-server
 <p>The service should now be running.</p>
 
 ```
-$ systemctl status grafana-server.service
+systemctl status grafana-server.service
 ```
 
 ```
@@ -96,6 +96,9 @@ sudo ufw allow from 192.168.50.0/24 to any port 3000
 
 <h3>Step 5: Access Grafana Dashboard on Ubuntu<meta charset="utf-8">2<meta charset="utf-8">2.04|20.04|18.04</h3>
 <p>Default logins are:</p>
+
+![Screenshot 2023-01-23 at 19 25 57](https://user-images.githubusercontent.com/22194506/214039200-7e64c47e-6009-49a9-896a-1dfcb7b5ee74.png)
+
 
 ```
 Username: <mark style="background-color:initial" class="has-inline-color has-vivid-cyan-blue-color">admin</mark>
