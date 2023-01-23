@@ -101,8 +101,8 @@ sudo ufw allow from 192.168.50.0/24 to any port 3000
 
 
 ```
-Username: <mark style="background-color:initial" class="has-inline-color has-vivid-cyan-blue-color">admin</mark>
-Password: <mark style="background-color:initial" class="has-inline-color has-vivid-purple-color">admin</mark>
+Username: admin
+Password: admin
 ```
 
 
