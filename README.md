@@ -1,5 +1,4 @@
-# Grafana_install_ubuntu
-### Install Grafana on Ubuntu 22.04|20.04|18.04 ###
+
 <h1 class="entry-title">How To Install Grafana on Ubuntu 22.04|20.04|18.04</h1>
 
 <h3 id="mce_10">Step 1: Update system</h3>
